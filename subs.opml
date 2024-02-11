@@ -13,8 +13,6 @@
             <outline text="Engadget" type="rss" xmlUrl="https://www.engadget.com/rss.xml" />
             <outline text="Gizmodo" type="rss" xmlUrl="https://gizmodo.com/rss" />
             <outline text="TechRadar" type="rss" xmlUrl="https://www.techradar.com/rss" />
-            <outline text="ZDNet" type="rss" xmlUrl="https://www.zdnet.com/news/rss.xml" />
-            <outline text="CNET" type="rss" xmlUrl="https://www.cnet.com/rss/news/" />
         </outline>
     </body>
 </opml>
